@@ -1,5 +1,5 @@
 # False Posistion Root Finding
-The algorithm can find roots for a function. 
+The function applies a root finding method to givern function. 
 #### Inputs
 (funciton, x lower bound, x upperbound, error aproximate, max iterations).
 The apporximate error and max iterations are optional inputs. If approximate error isnt inputed it runs at 0.01%
