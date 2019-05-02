@@ -1,4 +1,5 @@
 # LU Factorization Function
+The function factorizes an input function to a Lower and Upper matrix
 #### Inputs
 The only input neccesary is the Matrix you want to factorize
 #### Outputs
